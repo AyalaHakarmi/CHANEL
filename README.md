@@ -1,2 +1,2 @@
-# chanel
-New site for chanel
+# CHANEL
+New site for CHANEL
